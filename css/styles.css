@@ -35,6 +35,11 @@ aside {
 .altura_aside {
     height: 70vh;
 }
+.align_aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 footer { 
     background-color: rgb(123, 126, 220);
 }
