@@ -1,48 +1,24 @@
 * { box-sizing: border-box;
 }
 body {
-    background-color: burlywood;
+    background-color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
 }
-header { 
-    background-color: aqua;
-}
-.altura_header {
-    height: 10vh;
-}
-nav { 
-    background-color: rgb(125, 195, 117);
-}
 .altura_nav {
     height: 10vh;
-}
-section { 
-    background-color: rgb(123, 192, 211);
-}
-.altura_section {
-    height: 70vh;
-}
-article { 
-    background-color: rgb(159, 111, 177);
-}
-.altura_article {
-    height: 5rem;
-}
-aside { 
-    background-color: rgb(214, 227, 128);
-}
-.altura_aside {
-    height: 70vh;
 }
 .align_aside {
     display: flex;
     flex-flow:wrap ;
     align-items: center;
 }
-footer { 
-    background-color: rgb(123, 126, 220);
-}
 .altura_footer {
     height: 10vh;
+}
+h2 {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
 }
