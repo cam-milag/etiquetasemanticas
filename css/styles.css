@@ -37,7 +37,7 @@ aside {
 }
 .align_aside {
     display: flex;
-    justify-content: center;
+    flex-flow:wrap ;
     align-items: center;
 }
 footer { 
